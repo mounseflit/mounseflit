@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on everything
-- 🌐 my website : mounseflit.surge.sh
+- 🌐 my website : www.mounseflit.surge.sh
 - 📫 How to reach me +212614335196 or Instagram:@mounseflit
 - 📚 Im a student engineer at Emsi casablanca centre 
 
