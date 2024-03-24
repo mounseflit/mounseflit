@@ -7,11 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 😂 Random Dev Meme
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
-
+<br><br>
 # 💫 About Me:
 - 🔭 I’m currently Founder of My Way & co-founder of Cardify <br>
 - 👀 I’m interested in everything <br>
@@ -20,13 +16,18 @@
 - 🌐 my website : www.mounseflit.surge.sh <br>
 - 📫 How to reach me +212614335196 or Instagram:@mounseflit <br>
 - 📚 Im a student engineer at Emsi casablanca centre <br>
-
+<br><br>
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mounseflit" alt="GitHub Trophies" />
   </a>
 </p>
+<br>
+### 😂 Random Dev Meme
+<div align="center">
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 <!-- Support -->
 <p align="center">
