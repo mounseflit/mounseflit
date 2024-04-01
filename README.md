@@ -1,11 +1,11 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm Mounsef LITNITI 👋</h1>
-<h3 align="center">Passionate Software Magician | Entrepreneur | Ai Crafter</h3>
 
 <!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img align="right" height="590em" src="card.png"/>
+<h1 align="center">Hi there, I'm Mounsef LITNITI 👋</h1>
+<h3 align="center">Passionate Software Magician | Entrepreneur | Ai Crafter</h3>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 # 💫 About Me:
 - 🔭 I’m currently Founder of My Way & co-founder of Cardify <br>
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on everything <br>
 - 🌐 my website : www.mounseflit.surge.sh <br>
 - 📫 How to reach me +212614335196 or Instagram:@mounseflit <br>
-- 📚 Im a student engineer at Emsi casablanca centre <br>
+- 📚 Im a engineering student at EMSI Casablanca <br>
 <br>
 <!-- GitHub Trophies -->
 <p align="center">
