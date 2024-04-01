@@ -1,10 +1,9 @@
 <!-- Header -->
-
-<!-- Profile Views Counter -->
 <img align="right" height="590em" src="card.png"/>
 <h1 align="center">Hi there, I'm Mounsef LITNITI 👋</h1>
 <h3 align="center">Passionate Software Magician | Entrepreneur | Ai Crafter</h3>
 <br>
+<!-- Profile Views Counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 # 💫 About Me:
