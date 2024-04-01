@@ -105,6 +105,60 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mounseflit)   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/litnitimounsef@gmail.com) 
 </div>
 
+
+
+
+
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+    }
+    canvas {
+      display: block;
+    }
+  </style>
+
+  <script src="https://cdn.jsdelivr.net/npm/three@0.134.0/build/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three/examples/js/controls/OrbitControls.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three/examples/js/loaders/GLTFLoader.js"></script>
+  <script>
+    // Create a scene
+    const scene = new THREE.Scene();
+    scene.background = new THREE.Color(0xffffff); 
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    camera.position.set(-2, 2, 10); 
+    camera.lookAt(0, 0, 0);
+    const renderer = new THREE.WebGLRenderer();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.body.appendChild(renderer.domElement);
+    const loader = new THREE.GLTFLoader();
+    loader.load('u.glb', function(gltf) {
+      const model = gltf.scene;
+      scene.add(model);
+      const boundingBox = new THREE.Box3().setFromObject(model);
+      const size = boundingBox.getSize(new THREE.Vector3()).length();
+      const scale = 6 / size; // Desired initial size
+      model.scale.set(scale, scale, scale);
+    });
+    const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
+    scene.add(ambientLight);
+    const directionalLight = new THREE.DirectionalLight(0xffffff, 0.5);
+    scene.add(directionalLight);
+    const controls = new THREE.OrbitControls(camera, renderer.domElement);
+    controls.enableDamping = true;
+    controls.dampingFactor = 0.25;
+    controls.enableZoom = true;
+    function animate() {
+      requestAnimationFrame(animate);
+      controls.update(); // Update controls
+      renderer.render(scene, camera);
+    }
+    animate();
+  </script>
+
+
+
  
 
 
