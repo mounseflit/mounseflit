@@ -20,6 +20,7 @@
 <p align="center">
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <br><br>
     <img style="margin-top: 100em;" src="https://github-profile-trophy.vercel.app/?username=mounseflit" alt="GitHub Trophies" />
   </a>
 </p>
