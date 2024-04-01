@@ -15,9 +15,11 @@
 - 🌐 my website : www.mounseflit.surge.sh <br>
 - 📫 How to reach me +212614335196 or Instagram:@mounseflit <br>
 - 📚 Im a engineering student at EMSI Casablanca <br>
-<br>
+
+<br><br><br><br>
 <!-- GitHub Trophies -->
 <p align="center">
+  <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mounseflit" alt="GitHub Trophies" />
   </a>
