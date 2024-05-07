@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 ## 😂 Random Dev Meme
 <div align="center">
