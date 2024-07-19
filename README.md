@@ -32,7 +32,7 @@
 
 ## 😂 Random Dev Meme
 <div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://random-image-pepebigotes.vercel.app/api/skeleton-random-image' style="height: 400px;"/>
 </div>
 
 <br><br>
