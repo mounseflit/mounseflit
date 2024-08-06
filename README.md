@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 # 💫 About Me:
-- 🔭 Founder of My Way & co-founder of Cardify <br>
+- 🔭 Founder of Tahalil.Ai & My Way & co-founder of Cardify <br>
 - 👀 I’m interested in everything <br>
 - 🌱 I’m currently learning everything <br>
 - 👯 I’m looking to collaborate on everything <br>
