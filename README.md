@@ -46,12 +46,6 @@
 
 </div>
 
-<br>
-<!-- Support -->
-<p align="center">
-<a target="_blank" href="https://www.buymeacoffee.com/mounseflit"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=mounseflit&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
-</p>
-<br>
 
 ## ✍️ Random Dev Quote
 
