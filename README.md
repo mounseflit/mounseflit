@@ -8,8 +8,6 @@
 <!-- Profile Views Counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<br><br>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <br>
