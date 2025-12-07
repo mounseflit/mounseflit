@@ -3,7 +3,7 @@
 <!-- <img align="right" height="590em" src="card.png" style="margin-bottom: 100em;"/> -->
 </a>
 <h1 align="center">Hi there, I'm Mounsef LITNITI 👋</h1>
-<h3 align="center">GenAi Consulting @CraftersLab | x40 time Hackathons winner | Software Magician | Ai Agents & LLMs strategies & AiAAS Architect | Research and Development (R&D)</h3>
+<h3 align="center">GenAi Consultant at @AI Crafters | x40 time Hackathons winner | Software Magician | Ai Agents & LLMs strategies & AiAAS Architect | Research and Development (R&D)</h3>
 <br>
 <!-- Profile Views Counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
