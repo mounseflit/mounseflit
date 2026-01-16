@@ -9,13 +9,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khaouitiabdelhakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <!-- GitHub Trophies -->
-<p align="center">
+<!-- <p align="center">
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <br><br>[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+    <br><br>
     <img style="margin-top: 100em;" src="https://github-profile-trophy.vercel.app/?username=mounseflit" alt="GitHub Trophies" />
   </a>
-</p>
+</p> -->
 
 
 ## 🌐 Socials:
